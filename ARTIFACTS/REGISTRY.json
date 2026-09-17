@@ -1,0 +1,21 @@
+{
+  "artifacts": [
+    {
+      "name": "LUIZ_GUILHERME_FACE_FL26_ID_168305_FINAL_PRETESTE_V3_2.zip",
+      "role": "canonical_baseline",
+      "sha256": "f6bcb3335f3080e84da00b1709fef6f69f5fe87d65b60be4f49f4786f629711a",
+      "status": "baseline_not_for_install"
+    },
+    {
+      "name": "LUIZ_GUILHERME_FACE_FL26_ID_168305_V4_DIAGNOSTICO.zip",
+      "role": "diagnostic",
+      "status": "not_candidate_not_for_install"
+    },
+    {
+      "name": "V4_UNBLOCK_CATALOG_169070.zip",
+      "role": "benchmark_material",
+      "sha256": "b81fa6f73a4e0244e37aa01be63e668b0b8900a6bcac545b35a9008adecbda6c",
+      "status": "read_only_benchmark"
+    }
+  ]
+}
