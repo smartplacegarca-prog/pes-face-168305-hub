@@ -39,3 +39,6 @@ b6ecbd20cf940a28d5d7fbe76c9b4428d003b69d4a7727ceafd2ad9841149dfb  PROOF/face_hig
 6fcc275bbf74853a20894c8d0b7c7ecd2be5b006bedaad41eb0beef1aac14e76  PROOF/hair_high.fmdl
 1ad7b7dec1c144c7782f4214919a45b99d3b4c3826f239902bd0bf10c948c074  FINAL_CORE.ps1
 ```
+
+
+Install kit on GitHub release: `CHANCE1_MIN.tar.gz` SHA-256 `4fb929e68664d48757e0d9b7e8d43bf17566bc665aa4a336c055b86588d09a15`
