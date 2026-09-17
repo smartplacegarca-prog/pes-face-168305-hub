@@ -1,0 +1,5 @@
+ID 168305 V4.1
+READY FOR GAME: NO
+READY FOR EXTERNAL AUDIT: YES
+Instalar: INSTALAR_FINAL.bat (pede Install). Restore: RESTAURAR_ESTADO_ANTERIOR.bat
+Cabelo 169070 no FPK. Face mesh V3.2. Albedo nativo V4.1.

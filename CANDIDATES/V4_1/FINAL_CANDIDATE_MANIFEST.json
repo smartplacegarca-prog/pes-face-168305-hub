@@ -1,0 +1,32 @@
+{
+  "candidate": "V4_1",
+  "player_id": 168305,
+  "ready_for_game": false,
+  "ready_for_external_audit": true,
+  "powershell_native_homologation": false,
+  "sha256": {
+    "face.fpk": "d0e40babdf52e1259ac71f6df61ec0349e06f525da271463bbf79fd9f9f0b8c4",
+    "face_bsm_alp.ftex": "6c022d445f2e4c2f1101a8c76491b71c689b91ae3173e20e948a266786d3829e",
+    "hair_parts_bsm_alp.ftex": "867c7e421cd560ceebd7e680020b9fc6c1c58299324eaae8cd6203790ec09bb3",
+    "FINAL_CORE.ps1": "f8754ec08be07db182aba49ffc13487ac4372f6de522dbe0d77eec4d8391bbec"
+  },
+  "sizes": {
+    "face.fpk": 381456,
+    "face_bsm_alp.ftex": 517100,
+    "hair_parts_bsm_alp.ftex": 527432
+  },
+  "changes": {
+    "face_high": "V3.2 frozen",
+    "face_bsm_alp": "V4.1 native identity paint (brows/mustache/goatee)",
+    "hair_high": "169070 relink (unchanged from V4)",
+    "hair_parts_bsm_alp": "169070 (unchanged from V4)"
+  },
+  "not_done": [
+    "vertex morph",
+    "Blender 3D hair fit",
+    "PRIMARY profile JPEGs",
+    "official meta PNG on disk",
+    "PowerShell native homologation",
+    "in-game install"
+  ]
+}
