@@ -1,0 +1,2 @@
+Você é o executor. Leia `PROMPTS/ENTRYPOINT_ALL_AGENTS.txt` e `AGENTS.md`.
+Trabalhe em branch `work/*`. Nunca edite `main` diretamente. Entregue um único candidato e provas reproduzíveis.
