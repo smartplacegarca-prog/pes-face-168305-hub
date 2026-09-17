@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PES Face Audit",
+  "type": "object",
+  "required": ["agent", "artifact", "sha256", "verdict", "ready_for_game"],
+  "properties": {
+    "agent": {"type": "string"},
+    "artifact": {"type": "string"},
+    "sha256": {"type": "string"},
+    "verdict": {"enum": ["PASS", "FAIL", "INCONCLUSIVE"]},
+    "ready_for_external_audit": {"type": "boolean"},
+    "ready_for_game": {"type": "boolean"},
+    "evidence": {"type": "array", "items": {"type": "string"}},
+    "blockers": {"type": "array", "items": {"type": "string"}}
+  }
+}
