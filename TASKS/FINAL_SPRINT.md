@@ -95,3 +95,6 @@ A equipe para somente quando existir UM pacote candidato jogável ou quando houv
 Não parar por incerteza estética pequena.
 Não abrir nova rodada de brainstorming.
 Não pedir novas referências ao usuário nesta sprint.
+
+## Gatilho de execução
+Ao receber a mensagem curta `EXECUTE FINAL SPRINT NOW`, cada agente deve iniciar imediatamente sua função sem pedir novo plano ao usuário. Grok Chat deve despachar o Grok Work. Spark deve preparar QA e revisar assim que o candidato aparecer. ChatGPT fará a consolidação final sobre os artefatos reais produzidos.
