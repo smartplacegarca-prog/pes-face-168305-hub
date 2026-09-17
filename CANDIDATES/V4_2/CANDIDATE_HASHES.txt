@@ -1,0 +1,5 @@
+fbd06ee5f7f45b878beb1a2de69d3b69d19cc50ee3927e98ee612f7e2a7e7f8b  LIVECPK/root/Asset/model/character/face/real/168305/#Win/face.fpk
+6c022d445f2e4c2f1101a8c76491b71c689b91ae3173e20e948a266786d3829e  LIVECPK/root/Asset/model/character/face/real/5603a/sourceimages/#windx11/face_bsm_alp.ftex
+867c7e421cd560ceebd7e680020b9fc6c1c58299324eaae8cd6203790ec09bb3  LIVECPK/root/Asset/model/character/face/real/5603a/sourceimages/#windx11/hair_parts_bsm_alp.ftex
+b6ecbd20cf940a28d5d7fbe76c9b4428d003b69d4a7727ceafd2ad9841149dfb  PROOF/face_high.fmdl
+c22dfcb751bf823647a643a6f44b6173a395c6dd8b246c4d53c1f8a23978c0c2  FINAL_CORE.ps1
