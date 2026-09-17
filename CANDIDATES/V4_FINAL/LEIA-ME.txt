@@ -1,0 +1,21 @@
+CANDIDATO V4 — Player ID 168305 — TESTE IN-GAME
+READY FOR GAME: NO (falta validacao humana + Spark/ChatGPT)
+
+O que mudou vs V3.2:
+- hair_high.fmdl portado de 169070/35457a com relink de path 000000 -> 5603a/ (mesmo comprimento)
+- hair_parts_bsm_alp.ftex do conjunto 169070
+- face_high + face albedo V3.2 CONGELADOS
+- installer endurecido: hashes reais, rollback pos-copy, manifesto antes da quarantine, segundo Install bloqueado
+
+O que NAO mudou:
+- Player ID 168305
+- sclera, NRM/SRM/TRM
+- lábios (sem soldar)
+- topology/UV/index/weights da face
+
+Como instalar:
+1. Feche FL_2026.exe
+2. INSTALAR_FINAL.bat  OU  powershell -File FINAL_CORE.ps1 -Action Install
+3. Se ja existir RESULTADOS\INSTALL_MANIFEST.json, rode Restore primeiro
+
+PowerShell nativo e a homologacao real. Este ambiente so fez analise estatica do script.
