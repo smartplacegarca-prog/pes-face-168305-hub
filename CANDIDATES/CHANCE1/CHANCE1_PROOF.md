@@ -4,9 +4,6 @@ READY FOR EXTERNAL AUDIT: YES
 READY FOR GAME: NO
 AWAITING: ChatGPT + Gemini Spark before any in-game test.
 
-ZIP: `LUIZ_GUILHERME_FACE_FL26_ID_168305_CHANCE1_V3_2_MORPH_ONLY.zip`
-ZIP SHA-256: `c7baf4ad2e647d92c825fa6929674014b30ce9cde8bdf8b605aa2ea06dd5d767`
-
 ## Change
 In-place splice of V4.2 `face_high.fmdl` into V3.2 `face.fpk` at offset 0x4B0, size 128568.
 - BEFORE `de0820ca2e312ff6a1fdc34383819e009657a583f788121b209e44c0fa26c2d8`
