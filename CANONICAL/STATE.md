@@ -8,6 +8,13 @@ Data: 2026-09-17
 - Arquitetura baseline: FPK em 168305 + texturas alias 5603a
 - Dono/decisão humana final: Luiz Guilherme
 
+## Referência visual principal
+- PRIMARY_REFERENCE_SET = `2026-09-17`
+- registro: `REFERENCES/PRIMARY_2026-09-17/README.md`
+- prioridade: visual atual real do Luiz
+- fotos antigas: SECONDARY_REFERENCE_SET
+- qualquer análise de hair/likeness deve priorizar o set atual quando os binários estiverem fisicamente acessíveis ao agente
+
 ## Baseline V3.2
 - STRUCTURAL CORE: PASS
 - Albedo/naturalidade: PASS
@@ -40,6 +47,8 @@ Data: 2026-09-17
 - Integração de hair: NÃO autorizada até benchmark conclusivo.
 
 ## Auditorias em andamento
-- Gemini Spark: rerun do 169070 após confirmação de acesso físico ao ZIP.
-- Grok Chat: segunda opinião independente do mesmo pacote.
+- Gemini Spark: executar `TASKS/ACTIVE_SPARK.md` na branch `audit/spark`.
+- Grok Chat: executar `TASKS/ACTIVE_GROK_CHAT.md` na branch `audit/grok`.
+- Coordenação: `TASKS/COORDINATION_NOW.md`.
 - ChatGPT: integrador final das duas auditorias.
+- Grok Work: BLOQUEADO até consolidação ChatGPT.
