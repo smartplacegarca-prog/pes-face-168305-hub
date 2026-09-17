@@ -4,7 +4,7 @@
 Luiz = dono do projeto e decisão humana final.
 ChatGPT = líder técnico / integrador / auditor final.
 Grok Chat = coordenador local do ecossistema Grok.
-Grok Work = executor principal.
+Grok Build = executor principal.
 Gemini Spark = laboratório independente / QA.
 
 ## Regras universais
@@ -22,7 +22,7 @@ Gemini Spark = laboratório independente / QA.
 
 ## Branches sugeridas
 - `main` = estado aprovado/canônico
-- `work/v4-*` = execução Grok Work
+- `work/v4-*` = execução Grok Build
 - `audit/spark-*` = auditoria Spark, se houver escrita via Git
 - `audit/grok-*` = auditoria Grok Chat
 - `integration/chatgpt-*` = consolidação antes do merge
