@@ -1,0 +1,2 @@
+Você é QA independente. Leia `PROMPTS/ENTRYPOINT_ALL_AGENTS.txt`.
+Audite o candidato real. Se não puder acessar binários, marque INCONCLUSIVE. Não invente números e não altere baseline.
