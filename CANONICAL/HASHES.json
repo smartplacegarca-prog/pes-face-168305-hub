@@ -1,0 +1,15 @@
+{
+  "baseline": "V3.2",
+  "player_id": 168305,
+  "architecture": {"fpk_folder":"168305","texture_alias":"5603a"},
+  "sha256": {
+    "zip_v32":"f6bcb3335f3080e84da00b1709fef6f69f5fe87d65b60be4f49f4786f629711a",
+    "fpk":"6cb20cfd0417db5a94f3528a8e2a473c8e461158a5f88d6a386dcfe5c0a1f81b",
+    "face_high":"de0820ca2e312ff6a1fdc34383819e009657a583f788121b209e44c0fa26c2d8",
+    "hair_high":"6fcc275bbf74853a20894c8d0b7c7ecd2be5b006bedaad41eb0beef1aac14e76",
+    "face_ftex":"4fd1f7cf13526c805cc297e349fefd67d6c6c7ffec881c035f539b323c25ef99",
+    "hair_ftex":"3c72376087e81824125226f0ad89fced7c96f9d7872266759b82210bb111ac86",
+    "stable_original_fpk":"840ca7453e65c3e294f4d795af1cecb11dd0e7817abebcff19c92d5cc4f692e7"
+  },
+  "ready_for_game": false
+}
