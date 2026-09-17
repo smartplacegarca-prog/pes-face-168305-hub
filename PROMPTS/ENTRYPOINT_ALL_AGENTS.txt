@@ -1,0 +1,10 @@
+Leia, nesta ordem:
+1. `AGENTS.md`
+2. `CANONICAL/STATE.md`
+3. `CANONICAL/DECISIONS.md`
+4. `TASKS/CURRENT.md`
+5. `TASKS/BLOCKERS.md`
+6. `ARTIFACTS/REGISTRY.json`
+
+Não confie em memória de conversa quando houver conflito com o repositório.
+Arquivo real e hash atual têm prioridade.
