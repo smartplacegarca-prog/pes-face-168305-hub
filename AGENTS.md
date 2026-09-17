@@ -9,7 +9,7 @@ Gemini Spark = laboratório independente / QA.
 
 ## Regras universais
 - Nunca editar o baseline canônico diretamente.
-- Trabalhar em cóia/branch.
+- Trabalhar em cópia/branch.
 - Arquivo real > hash calculado agora > relatório > hipótese.
 - Nunca declarar PASS com base apenas em auto-relatório.
 - Separar PASS estrutural, visual, funcional e in-game.
